@@ -6,8 +6,5 @@ Lorenzo aprendendo Git
 larissa
 Gabi
 Println("Hello World")
-
 aaaaa
-Gabi
 
-Lorenzo aprendendo Git
